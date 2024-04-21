@@ -26,4 +26,5 @@ This repository contains several machine learning projects implemented in Python
 - Python 3
 - NumPy
 - Pandas
+- sklearn
 
